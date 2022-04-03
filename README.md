@@ -1,2 +1,2 @@
-# kickstarter-analysis_HW_1
+# kickstarter-analysis
 Data analysis on Kickstarter fundraising effort
